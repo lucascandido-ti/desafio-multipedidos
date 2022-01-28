@@ -1,7 +1,7 @@
-# FRONT-END - DESAFIO MULTIPEDIDOS
+# FRONT-END - Angular
 ## _Desenvolvido por Lucas Candido_
 
-Este projeto foi desenvolvido para vaga de Desenvolvedor para empresa Multipedidos.
+Este projeto foi desenvolvido para controle de CRUD de usuário.
 
 ## RECURSOS
 
