@@ -1,7 +1,7 @@
-# BACK-END - DESAFIO MULTIPEDIDOS
+# BACK-END - LARAVEL/LUMEN
 ## _Desenvolvido por Lucas Candido_
 
-Este desafio foi desenvolvido para vaga de Desenvolvedor para empresa Multipedidos.
+Esta API foi desenvolvida para um CRUD de usuários.
 
 ## RECURSOS
 
